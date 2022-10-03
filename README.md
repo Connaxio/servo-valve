@@ -1,5 +1,5 @@
 # Servo-Valve
-This is a fully parametric 3D printed fixture that allows to open and close a ball valve with a servo motor. Designed with FreeCAD to be sturdy and easy to assemble.
+This is a fully parametric 3D printed fixture that allows to open and close a ball valve with a servo motor. Designed with FreeCAD to be sturdy and easy to assemble. Compared to solenoid valves, this kind of valve requires much less current to operate, can be turned off when not in use, and works reliably on a 5 Volts supply, making it ideal for embedded projects.
 
 ![iso view](images/iso_view.jpg)
 ![3d view](images/3d.png)
@@ -14,7 +14,7 @@ This is a fully parametric 3D printed fixture that allows to open and close a ba
 - Two to four screws to secure the servo against the plastic bracket.
 
 ## Recommendations
-- The part that is screwed onto the valve should be printed at 100% plastic fill to prevent stripping of the square hole;
+- The part of the coupler that is screwed onto the valve should be printed at 100% plastic fill to prevent stripping of the square hole;
 - Other parts can be printed with 30% fill. Mileage may vary;
 - The servo mounting holes are typically 4.5 mm in diameter, which fits M4 or #8 screws well;
 - It is recommended to have a way to power off the servo a few seconds after activation, to prevent overheating;
